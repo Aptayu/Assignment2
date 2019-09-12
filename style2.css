@@ -1,11 +1,11 @@
-
 html,
-body{
-    height:100%;
+body {
+    height: 100%;
 }
 
-#cover{
-    background:  #222 url('img/Bike.jpg') center center no-repeat;
+
+#cover {
+    background: #222 url('img/Bike.jpg') center center no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
@@ -13,42 +13,42 @@ body{
     display: flex;
     align-items: center;
 }
+
 #cover-caption {
     width: 100%;
 }
-#form{
+
+#form {
     position: absolute;
     left: 20%;
 }
-#downarrow{
+
+#downarrow {
     position: absolute;
     top: 80%;
 }
-#slide1{
 
-   text-align: center;
+#slide1 {
+
+    text-align: center;
 }
-.footer{
-color: blue;
+
+.footer {
+    color: blue;
 }
-.fa-facebook, .twitter {
-    
-    color:blue;
-    float:right;
-    display: inline;
-}
-.card-img-top{
+
+.card-img-top {
     height: 200px;
 }
-.card-text{
+
+.card-text {
     color: lightgrey;
 }
-.lelo
-{
+
+.lelo {
     display: inline;
 }
-#help{
+
+#help {
     float: right;
 }
-  
-  
