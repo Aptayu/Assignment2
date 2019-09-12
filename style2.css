@@ -35,12 +35,20 @@ color: blue;
     
     color:blue;
     float:right;
+    display: inline;
 }
 .card-img-top{
     height: 200px;
 }
 .card-text{
     color: lightgrey;
+}
+.lelo
+{
+    display: inline;
+}
+#help{
+    float: right;
 }
   
   
